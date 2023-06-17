@@ -1,0 +1,8 @@
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\bin\Debug\MaquinaCafe.exe.config
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\bin\Debug\MaquinaCafe.exe
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\bin\Debug\MaquinaCafe.pdb
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.AssemblyReference.cache
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.exe
+C:\Users\natan\source\repos\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.pdb
